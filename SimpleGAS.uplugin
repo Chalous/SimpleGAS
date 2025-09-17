@@ -18,7 +18,7 @@
 		{
 			"Name": "SimpleGAS",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "PostDefault"
 		}
 	],
 	"Plugins": [
